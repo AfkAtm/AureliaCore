@@ -1,0 +1,2 @@
+# AureliaCore
+Aurelia Core Template
